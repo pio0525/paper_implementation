@@ -8,7 +8,7 @@
 
 ## Stat
 - ddd
-  * [Original Paper Link](https://www.example.com) / [Explanation](https://www.example.com) / [Code implementation/practice](https://www.example.com)
+  - [Original Paper Link](https://www.example.com) / [Explanation](https://www.example.com) / [Code implementation/practice](https://www.example.com)
 
 ## Machine Learning
 - ddd [Original Paper Link](https://www.example.com) / [Explanation](https://www.example.com) / [Code implementation/practice](https://www.example.com)
