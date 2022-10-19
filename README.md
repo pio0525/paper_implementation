@@ -1,1 +1,1 @@
-# Stat/ML/DL 관련 논문 공부 및 코드 구현해 놓은 Repo입니다.
+# Stat/ML/DL 관련 논문 정리
