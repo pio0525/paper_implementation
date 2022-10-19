@@ -7,18 +7,16 @@
 
 
 ## Stat
-
-### Information and links
-[Original Paper Link](https://www.example.com) / [Explanation](https://www.example.com) / [Code implementation/practice](https://www.example.com)
+- ddd
+  * [Original Paper Link](https://www.example.com) / [Explanation](https://www.example.com) / [Code implementation/practice](https://www.example.com)
 
 ## Machine Learning
+- ddd [Original Paper Link](https://www.example.com) / [Explanation](https://www.example.com) / [Code implementation/practice](https://www.example.com)
 
-### Information and links
-[Original Paper Link](https://www.example.com) / [Explanation](https://www.example.com) / [Code implementation/practice](https://www.example.com)
+
 
 
 ## Deep Learning 
+- ddd [Original Paper Link](https://www.example.com) / [Explanation](https://www.example.com) / [Code implementation/practice](https://www.example.com)
 
-### Information and links
-[Original Paper Link](https://www.example.com) / [Explanation](https://www.example.com) / [Code implementation/practice](https://www.example.com)
 
