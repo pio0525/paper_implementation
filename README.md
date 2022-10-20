@@ -7,7 +7,7 @@
 
 ## Machine Learning
 - Bandit algorithm : **LinUCB** 알고리즘을 중심으로 4개의 non-contextual algorithm(Epsilon-greedy, Annealing-EpsilonGreedy, Soft-max, UCB)과의 비교 실험 
-  - [Original Paper(LinUCB)](https://arxiv.org/pdf/1003.0146.pdf) / [Explanation](https://github.com/pio0525/paper_implementation/blob/main/Bandit%20Algorithm/LinUCB.pdf) / [Implementation]()
+  - [Original Paper(LinUCB)](https://arxiv.org/pdf/1003.0146.pdf) / [Explanation](https://github.com/pio0525/paper_implementation/blob/main/Bandit%20Algorithm/LinUCB.pdf) / [Implementation]() /[Experiment]()
 
 
 
