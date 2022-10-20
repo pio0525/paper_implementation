@@ -4,7 +4,7 @@
 
 ## Stat
 - ddd
-  - [Original Paper Link](https://www.example.com) / [Explanation](https://github.com/pio0525/paper_implementation/blob/main/Bandit%20Algorithm/LinUCB.ipynb) / [Experiment](https://github.com/pio0525/paper_implementation/blob/main/Bandit%20Algorithm/LinUCB.ipynb)
+  - [Original Paper Link](https://www.example.com) / [Explanation]([https://github.com/pio0525/paper_implementation/blob/main/Bandit%20Algorithm/LinUCB.ipynb](https://github.com/pio0525/paper_implementation/blob/main/Bandit%20Algorithm/LinUCB.pdf)) / [Experiment](https://github.com/pio0525/paper_implementation/blob/main/Bandit%20Algorithm/LinUCB.ipynb)
 
 ## Machine Learning
 - Bandit algorithm 
